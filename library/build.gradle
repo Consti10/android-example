@@ -9,8 +9,8 @@ repositories {
     maven { url "https://jitpack.io" }
 }
 
-group = 'com.github.jitpack'
-version = '1.0'
+group = 'com.github.Consti10'
+version = '1.X'
 
 android {
     compileSdkVersion 28
